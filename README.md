@@ -82,6 +82,10 @@ Verification includes prototype journey checks, static milestone scripts, Swift/
 4. Validate LiveKit room join, press/release mute behavior, and convoy-end disconnect.
 5. Finish hosted privacy/deletion URLs and private beta readiness checks.
 
-## Demo media pending
+## Public-safe demo reel
 
-Planned demo: a simulator or device walkthrough showing create/join, live map state, shared destination, route and ETA context, active Talk state, and end-convoy cleanup. Until that recording is safe to publish, this README uses architecture and workflow evidence instead of media claims.
+![Convoy public-safe demo reel](assets/convoy-demo-reel.svg)
+
+This sanitized walkthrough shows create/join, live map state, destination/route context, press-to-talk, and end-convoy cleanup. It is public-safe walkthrough media, not private app footage.
+
+The reel uses synthetic sessions and generic map states only. Real locations, identity data, raw source, endpoint details, schemas, and policies stay private.
